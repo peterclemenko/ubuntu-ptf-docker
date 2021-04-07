@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:rolling
 LABEL maintainer="Peter Clemenko"
 
 

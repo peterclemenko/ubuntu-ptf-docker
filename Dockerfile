@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:20.10
 LABEL maintainer="Peter Clemenko"
 
 

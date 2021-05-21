@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:groovy-20210416
 LABEL maintainer="Peter Clemenko"
 
 

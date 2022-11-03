@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 LABEL maintainer="Peter Clemenko"
 
 
